@@ -1,8 +1,11 @@
-# password-generator
-Simple python program that generates a random password.
+# Password Generator
 
-It uses the random module and try, except.
+A Python program that generates a random password.
 
-## How  to run
+Features
+- Choose password length
+- Optional symbols
+- Random password generation
 
-run passwordgenerator.py
+How to run
+python password_generator.py
